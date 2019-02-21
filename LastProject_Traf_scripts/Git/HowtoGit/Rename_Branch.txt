@@ -1,0 +1,6 @@
+http://stackoverflow.com/questions/6591213/how-to-rename-a-local-git-branch
+
+1. switch to branch which needs to be renamed
+2. git branch -m <new_name>
+3. git push origin :<old_name>
+4. git push origin <new_name>:refs/heads/<new_name>

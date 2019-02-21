@@ -1,0 +1,8 @@
+$objSequence="t|p|c|r|x|q|m"
+$ugTable="1|10|1001"
+$ugPage="1|10"
+$ugCode="10|100"
+$ugReport=""
+$ugXMLport=""
+$ugMenu="1055|1052" 
+$ugQuery=""

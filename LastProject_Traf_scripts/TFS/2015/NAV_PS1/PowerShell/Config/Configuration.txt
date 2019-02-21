@@ -1,0 +1,7 @@
+tfsCollectionURL=http://ttraflon2k932:8080/tfs/Puma
+serverWorkSpacePath=$/ePuma/NAV/Dev/NavWorkspace
+TFS Folder Path=C:\Program Files (x86)\Microsoft Visual Studio 12.0\Common7\IDE
+RTC Client Path=C:\Program Files (x86)\Microsoft Dynamics NAV\80\RoleTailored Client
+Dev_DBServer=TTRAFLOCO2K910\NAVDEMO
+Dev_Database=NAV_BUILD_UAT
+ObjExcludeList=Codeunit_11102070.txt|Codeunit_11102072.txt|Page_11175819.txt|Codeunit_71107.txt|MenuSuite_1010.txt|Page_675.txt|Page_681.txt|Page_875.txt|Page_1395.txt|Page_1396.txt|Page_5540.txt|Page_11175795.txt|Page_51355.txt|Table_14074208.txt|Codeunit_14074213.txt|Codeunit_14074616.txt|Codeunit_71116.txt|Codeunit_71126.txt|Codeunit_71145.txt|Codeunit_71124.txt|Codeunit_71128.txt|Codeunit_71166.txt|Codeunit_71168.txt

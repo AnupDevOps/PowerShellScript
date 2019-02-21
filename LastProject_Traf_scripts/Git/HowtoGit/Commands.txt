@@ -1,0 +1,24 @@
+Update Local Repository
+
+
+for ns gl change
+
+
+git reset --hard HEAD
+git clean -f -d
+git pull origin Dev
+
+PS C:\Project\GIT-TFS\GIT\ePuma_NAV__Git_Conversion\NAV\NavWorkspace> git pull origin Dev
+remote: Microsoft (R) Visual Studio (R) Team Foundation Server
+remote: Found 6 objects to send. (11 ms)
+Unpacking objects: 100% (6/6), done.
+From http://dtraflon2k107:8080/tfs/Puma/ePuma_Git/_git/ePuma_NAV__Git_Conversion
+ * branch            Dev        -> FETCH_HEAD
+   10a8e3a..486e3ef  Dev        -> origin/Dev
+Merge made by the 'recursive' strategy.
+NAV/NavWorkspace/Codeunit/Codeunit_1000.txt
+
+
+
+Check the remote server
+git remote show origin

@@ -1,0 +1,11 @@
+1. Create an empty local directory
+2. git tfs clone http://ttraflon2k932:8080/tfs/puma $/ePuma/Interfaces/BizTalk/Dev  ---- Example
+3. Create another empty directory
+4. create Repository online
+5. git clone http://dtraflon2k107:8080/tfs/Puma/ePuma_Git/_git/BizTalk .
+6. Copy all files from first folder to here excluding .git 
+7. git commit -a -m "Initial Commit moving QA branch from TFVC to GIT"
+8. git remote add origin http://dtraflon2k107:8080/tfs/Puma/ePuma_Git/_git/BizTalk
+9. git add .
+10. git commit -a -m "Initial Commit moving QA branch from TFVC to GIT"
+11. git push

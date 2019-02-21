@@ -1,0 +1,24 @@
+git checkout -b Dev_Sprint3 Dev_Sprint2
+git commit -am "Your message"
+git push origin Dev_Sprint3
+
+
+
+git checkout -b Dev_CC_7_4_Upgrade QA
+git commit -am "Dev_CC_7_4_Upgrade"
+git push origin Dev_CC_7_4_Upgrade
+
+
+git checkout -b Dev_Sprint4 QA
+git commit -am "Your message"
+git push origin Dev_Sprint4
+
+
+
+[86573168] You cannot enter 'Create PO Form Contract' in CodeunitNo. -- Object: Codeunit 71041 RW122_012EF
+
+[19464334] 'Sent for Synchronization' is not an option.
+
+The existing options are:
+
+Inactive, Active -- Object: Codeunit 71160 Thread HLBR-E2E 003.37

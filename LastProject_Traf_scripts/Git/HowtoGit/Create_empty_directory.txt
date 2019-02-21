@@ -1,0 +1,10 @@
+http://stackoverflow.com/questions/115983/how-can-i-add-an-empty-directory-to-a-git-repository/8944077#8944077
+
+$ mkdir tmp
+$ touch tmp/.gitignore
+$ git add tmp
+$ echo '*' > tmp/.gitignore
+$ git commit -m 'Empty directory' tmp
+
+echo $null >> tmp/.gitignore 
+ instead of touch

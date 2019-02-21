@@ -1,0 +1,8 @@
+$ugTable= "1005|1006|10"
+$ugPage="1|4|6"
+$ugCode="1|10"
+$ugReport="1|10|104"
+$ugXMLport="20|23|26|28"
+$ugTData="8|7|6|4"
+$ugMenu="2|4|6|8"
+$ugQuery="5|6|8|9"

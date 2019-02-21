@@ -1,0 +1,20 @@
+git checkout --orphan mybranch
+Delete everything in the orphan branch
+
+git rm -rf .
+Make some changes
+
+vi README.txt
+Add and commit the changes
+
+git add README.txt
+git commit -m "Adding readme file"
+That’s it. If you run
+
+git log
+you’ll notice that the commit history starts from scratch. To switch back to your master branch, just run
+
+git checkout master
+You can return to the orphan branch by running
+
+git checkout mybranch

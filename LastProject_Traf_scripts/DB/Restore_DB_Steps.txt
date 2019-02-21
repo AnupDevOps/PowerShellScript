@@ -1,0 +1,4 @@
+restore database NAVDEMOTEST
+from disk ='C:\DB_Backup\NAV_PUMA2015_DEV_13102015.BAK' 
+with move 'Demo Database NAV (8-0)_Data' to 'C:\Program Files\Microsoft SQL Server\MSSQL12.NAVDEMO\MSSQL\DATA\TEST\NAVDEMOTEST.MDF',
+move 'Demo Database NAV (8-0)_Log' to 'C:\Program Files\Microsoft SQL Server\MSSQL12.NAVDEMO\MSSQL\DATA\TEST\NAVDEMOTEST_LOG.LDF', replace, stats = 1
