@@ -1,0 +1,6 @@
+Hi Anup, 
+
+TRM Application server is running out of memory.
+
+thanks, 
+DevOps Bot.
